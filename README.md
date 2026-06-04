@@ -4,7 +4,7 @@
 
 ## Report a problem
 
-If you encounter a problem while playing, please let me know by [creating an issue](https://github.com/jawnyawns/hangers/issues/new/choose) or messaging me on Instagram: [@johnchinjew](https://www.instagram.com/johnchinjew/). I will try to fix the problem ASAP!
+If you encounter a problem while playing, please let me know by [creating an issue](https://github.com/johnchinjew/hangers/issues/new/choose) or messaging me on Instagram: [@johnchinjew](https://www.instagram.com/johnchinjew/). I will try to fix the problem ASAP!
 
 ## Donate
 
@@ -12,4 +12,4 @@ Please consider [donating](https://buymeacoffee.com/johnchinjew) to support the 
 
 ---
 
-© [John Chin-Jew](https://johntxt.github.io/). All rights reserved.
+© [John Chin-Jew](https://johnchinjew.github.io/). All rights reserved.
